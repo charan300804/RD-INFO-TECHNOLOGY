@@ -1,7 +1,7 @@
 # RD-INRFO-TECHNOLOGY
-# 🚀 RD Info Technology - Python Projects Repository
+# 🚀 RD Infro Technology - Python Projects Repository
 
-Welcome to the **RD Info Technology** repository! This repository contains multiple Python-based projects, including a **To-Do List Manager, Contact Book, Rock-Paper-Scissors Game, Secret Code Generator, and a Calculator**. Each project is designed to be interactive and easy to use. Read below for details on each project and how to set up the repository.
+Welcome to the **RD Infro Technology** repository! This repository contains multiple Python-based projects, including a **To-Do List Manager, Contact Book, Rock-Paper-Scissors Game, Secret Code Generator, and a Calculator**. Each project is designed to be interactive and easy to use. Read below for details on each project and how to set up the repository.
 
 ---
 
